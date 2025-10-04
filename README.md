@@ -6,6 +6,6 @@
 
 ### Heading level 3
 
-I really like using Markdown.
+__I really like using Markdown.__
 
 I think I'll use it to format all of my documents from now on.
